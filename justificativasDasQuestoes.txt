@@ -1,0 +1,7 @@
+ta, eu pelo tempo consegui fazer só a 1 mesmo tendo feito os 2 exercicios varias vezes em casa - -
+mas ok, eu na 1 decidi escolher fazer com 1 factory normal, pois não existia nenhuma justificativa pra usar abstract, mas
+alem disso ela mantem a manutenção simples do codigo alem de outras adições serem bem faceis sem ter que encostar na abstração
+ 
+ tambem mantendo tudo encapsulado e isolado pra todo mundo só saber do que precisa
+
+ ok tudo certo 
